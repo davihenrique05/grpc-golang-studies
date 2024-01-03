@@ -1,1 +1,1 @@
-# grpc-golang-studies
+# gRPC with Golang
